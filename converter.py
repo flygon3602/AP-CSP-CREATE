@@ -15,6 +15,7 @@ class question:
         self.description=description
         self.answer=answer
         self.option=option
+
 J1=question('The fastest train in the world is in Japan.', 'b', ['a)True', 'b)False'] )
 J2=question('There are four different writing systems in Japan: Romaji, Katakana, Hiragana, and Kanji.', 'a', ['a)True','b)False'] )
 J3=question('The World’s largest fish market is held in Japan?', 'a', ['a)True', 'b)False'])
@@ -63,7 +64,7 @@ b.  False''' )
 China = category("China", [C1,C2,C3,C4,C5,C6,C7,C8,C9])
 
 
-[16, 17, 18, 19, 20, 21, 22, 25]
+# [16, 17, 18, 19, 20, 21, 22, 25]
 
 I1 = question("T/F India is the largest democracy in the world", 'a', '''a.  True
 b.  False''')
