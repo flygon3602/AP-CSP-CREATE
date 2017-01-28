@@ -15,7 +15,7 @@ class question:
         self.description=description
         self.answer=answer
         self.option=option
-J1=question('The fastest train in the world is in Japan', 'b', ['a)True', 'b)False'] )
+J1=question('The fastest train in the world is in Japan.', 'b', ['a)True', 'b)False'] )
 J2=question('There are four different writing systems in Japan: Romaji, Katakana, Hiragana, and Kanji.', 'a', ['a)True','b)False'] )
 J3=question('The World’s largest fish market is held in Japan?', 'a', ['a)True', 'b)False'])
 J4=question('Coffee is very popular in Japan?', 'a', ['a)True', 'b)False'])
