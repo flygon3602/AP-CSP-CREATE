@@ -63,5 +63,10 @@ b.  False''' )
 China = category("China", [C1,C2,C3,C4,C5,C6,C7,C8,C9])
 
 
-cs
+[16, 17, 18, 19, 20, 21, 22, 25]
 
+I1 = question("T/F India is the largest democracy in the world", 'a', '''a.  True
+b.  False''')
+
+I2 = question("T/F It is illegal for citizens to take Indian candy out of India", 'a', '''a.  True
+b.  False''')
